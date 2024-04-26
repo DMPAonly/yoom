@@ -26,7 +26,7 @@ const config = {
           4: '#1E2757',
         },
         blue: {
-          1: '#0E78F9',
+          1: '#0FA4AF',
         },
         sky: {
           1: '#C9DDFF',
@@ -41,6 +41,21 @@ const config = {
         },
         yellow: {
           1: '#F9A90E',
+        },
+        mettalic1: {
+          1: '#AFDDE5'
+        },
+        mettalic2: {
+          1: '#0FA4AF'
+        },
+        mettalic3: {
+          1: '#964734'
+        },
+        mettalic4: {
+          1: '#003135'
+        },
+        mettalic5: {
+          1: '#024950'
         },
       },
       keyframes: {
