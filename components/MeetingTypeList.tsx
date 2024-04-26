@@ -84,13 +84,13 @@ const MeetingTypeList = () => {
         className="bg-mettalic2-1"
         handleClick={() => setMeetingState('isJoiningMeeting')}
       />
-      {/*<HomeCard
+      {/* <HomeCard
         img="/icons/schedule.svg"
         title="Schedule Meeting"
         description="Plan your meeting"
         className="bg-purple-1"
         handleClick={() => setMeetingState('isScheduleMeeting')}
-      />*/}
+      /> */}
       <HomeCard
         img="/icons/recordings.svg"
         title="View Recordings"
